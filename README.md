@@ -2,6 +2,7 @@
 
 Q1: Summarize the project and what problem it was solving.
   The project is focused on integrating the Python and C++ Computer languages to create a program that tracks grocery items based on reading and writing input lists.
+  
 Q2: What did you do particularly well?
   I believe I made the program user-friendly, while also minimizing main in the C++ side of the program. I also validated all user input including input mismatch.
 Q3: Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
