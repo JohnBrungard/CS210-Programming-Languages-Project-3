@@ -1,6 +1,6 @@
 # CS210-Project-3
 
-Q1: Summarize the project and what problem it was solving.
+Q1: Summarize the project and what problem it was solving.\n
   The project is focused on integrating the Python and C++ Computer languages to create a program that tracks grocery items based on reading and writing input lists.
   
 Q2: What did you do particularly well?
