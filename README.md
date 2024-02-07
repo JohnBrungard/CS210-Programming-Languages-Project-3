@@ -20,5 +20,5 @@ Q5: What skills from this project will be particularly transferable to other pro
   Computer Language Integration. It was valuable to see how the strengths of each Computer Language can contribute to a powerful program.
   
 Q6: How did you make this program maintainable, readable, and adaptable?
-  I used appropriate white space and naming conventions to made the code readable. I also used functions and strayed away from hard coding so the code can be adapted
+  I used appropriate white space and naming conventions to make the code readable. I also used functions and strayed away from hard coding so the code can be adapted
   and maintained.
